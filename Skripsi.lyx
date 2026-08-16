@@ -19273,7 +19273,11 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Wireframe Halaman Index
+
+\emph on
+Wireframe
+\emph default
+ Halaman Index
 \begin_inset CommandInset label
 LatexCommand label
 name "fig:Wireframe-Halaman-Index"
@@ -19390,7 +19394,11 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Wireframe Halaman Katalog
+
+\emph on
+Wireframe
+\emph default
+ Halaman Katalog
 \begin_inset CommandInset label
 LatexCommand label
 name "fig:Wireframe-Halaman-Katalog"
@@ -19501,7 +19509,11 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Wireframe Halaman Detail
+
+\emph on
+Wireframe
+\emph default
+ Halaman Detail
 \begin_inset CommandInset label
 LatexCommand label
 name "fig:Wireframe-Halaman-Detail"
@@ -19619,7 +19631,11 @@ status collapsed
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-Wireframe Halaman Rekomendasi
+
+\emph on
+Wireframe
+\emph default
+ Halaman Rekomendasi
 \begin_inset CommandInset label
 LatexCommand label
 name "fig:Wireframe-Halaman-Rekomendasi"
